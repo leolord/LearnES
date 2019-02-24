@@ -1,7 +1,9 @@
+#!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @file:        __init__.py
-# @author:      wujiantao(wujiantao@bytedance.com)
-# @description:
-# @date:        2019/01/26
+"""
+这里啥也没有，别看了
 
-
+File:        __init__.py
+Author:      wujiantao(wujiantao@bytedance.com)
+Date:        2019/02/23
+"""
